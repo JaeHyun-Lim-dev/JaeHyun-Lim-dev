@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌈  🌈</h3>
+<h3 align="center">🌈 Blog & Contact 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/notion-0d0d0d?style=flat-square&logo=notion&logoColor=white&link=[https://tasty-caboc-7f1.notion.site/JaeHyun-Lim-f5a5096075234a158f7318caaa19957e]"/></a>&nbsp
   <a href="mailto:bonny950512@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
