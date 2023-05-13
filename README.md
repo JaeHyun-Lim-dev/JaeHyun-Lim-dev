@@ -7,12 +7,12 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+<!--   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp  -->
 </p>
 
 <h3 align="center">🌈 Blog & Contact 🌈</h3>
 <p align="center">
-  <a href="https://tasty-caboc-7f1.notion.site/JaeHyun-Lim-f5a5096075234a158f7318caaa19957e"><img src="https://img.shields.io/badge/notion-0d0d0d?style=flat-square&logo=notion&logoColor=white&link=[https://tasty-caboc-7f1.notion.site/JaeHyun-Lim-f5a5096075234a158f7318caaa19957e]"/></a>&nbsp
+<!--   <a href="https://tasty-caboc-7f1.notion.site/JaeHyun-Lim-f5a5096075234a158f7318caaa19957e"><img src="https://img.shields.io/badge/notion-0d0d0d?style=flat-square&logo=notion&logoColor=white&link=[https://tasty-caboc-7f1.notion.site/JaeHyun-Lim-f5a5096075234a158f7318caaa19957e]"/></a>&nbsp -->
   <a href="mailto:bonny950512@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
   
